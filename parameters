@@ -1,0 +1,4 @@
+NAMESPACE="osh-space1"
+CLUSTER="osh-cluster1"
+ROUTE_PREFIX="load-test"
+GEOURL="geo.url.to"
